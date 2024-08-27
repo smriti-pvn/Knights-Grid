@@ -27,4 +27,8 @@ This project is a medieval-themed tic-tac-toe game built using HTML, CSS, and Ja
 ## Installation
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web 
+2. Open the `index.html` file in a web browser to start playing.
+
+## Contributing
+
+Feel free to submit issues or pull requests to improve the game or add new features.
